@@ -1,0 +1,12 @@
+Category: Image Processing
+001,Wasana Images,Image Processing,Palitha Silva, Rachini Perera, Manjula Attanayaka,For developing quality images to public,Sri Lanka
+005,Ranru Images,Image Processing,Vandhana Kapoor, Anushaka Sharma,Create new images,India
+007,Green View,Image Processing,Rashmi Kapoor, Kate Silverstor,Collecting high quality images to young generation,India
+Category: Photography
+002,New World,Photography,Alex Peterson, John Edward,Explore beauty of the world,England
+004,Eangle,Photography,Anna Anderson, Hafsa Smith,Nature through the eyes,Austraila
+009,Dangerous,Photography,Kim Tan, Jung So,Capturing dangerous pictures,South  Korea
+Category: Album Creating
+003,The Eyes,Album Creating,Joe Root, Ben Stokes, Jos Buttler,To create several albums using AI,England
+006,Seven Secrets,Album Creating,Yasaa Perera, Shakthi Silva,Collecting high quality albums,New Zealand
+008,Mihimadala,Album Creating,Akash Perera, Hiruni Silva,Introducing several albums,China
